@@ -1,3 +1,9 @@
+/**************************
+* AVL Tree implementation *
+* Valentin Latunov 2018   *
+**************************/
+/* Written as homework for the MNK Algo2 course */
+
 #pragma once
 
 #include <stack>
